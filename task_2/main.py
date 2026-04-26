@@ -48,7 +48,6 @@ def init_db_cats():
     )
     print(result_many.inserted_ids)
 
-
 # Read
 def print_all_records():
     try:
